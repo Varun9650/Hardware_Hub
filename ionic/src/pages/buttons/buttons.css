@@ -1,0 +1,108 @@
+/* write your css here */
+
+/* iphone 4 & 4s */
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px) {
+
+}
+
+/* iphone 5, 5s,5c */
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) {
+
+}
+
+/* iphone 6s, 6, 7  */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) {
+
+}
+
+/* iphone 6+, 7+, 8+ */
+
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) {
+
+}
+
+/* iphone x */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) {
+
+}
+
+/* Android -Galaxy s3*/
+
+@media only screen 
+  and (min-device-width: 400px) 
+  and (max-device-width: 750px) {
+
+}
+
+#page-buttons {
+  --theme-primary-color: url("../../imgs/blur6.jpeg");
+  background: url("../../imgs/blur6.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#page-buttons [studio-id="buttons_Heading_4935"] {
+  --theme-text-secondary-color: #9b9b9b;
+  color: var(--theme-text-secondary-color);
+}
+
+#page-buttons [studio-id="buttons_Button_5055"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #ffffff;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 900 !important;
+}
+
+#page-buttons [studio-id="buttons_Button_9512"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #ffffff;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 900 !important;
+}
+
+#page-buttons [studio-id="buttons_Button_8482"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #ffffff;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 900 !important;
+}
+
+#page-buttons [studio-id="buttons_Button_1639"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #ffffff;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 900 !important;
+}
+
+#page-buttons [studio-id="buttons_Label_570"] {
+  --theme-text-secondary-color: #f8e71c;
+  color: var(--theme-text-secondary-color);
+  font-weight: 100 !important;
+}
+
+#page-buttons [studio-id="buttons_Button_1803"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #ffffff;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 500;
+}

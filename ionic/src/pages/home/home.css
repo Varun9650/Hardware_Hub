@@ -1,0 +1,72 @@
+#page-home {
+  --theme-primary-color: url("../../imgs/blur21.jpg");
+  background: url("../../imgs/blur21.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#page-home [studio-id="home_Login Form_9171"] {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 2em;
+}
+
+#page-home [studio-id="home_Login Form_9171"] .login-wrapper {
+  --theme-primary-shade-one: #35354b;
+  --theme-shadow-color: #3e3f52;
+  background: var(--theme-primary-shade-one);
+  box-shadow: 2px 2px 10px 2px var(--theme-shadow-color);
+  width: 50%;
+}
+
+#page-home [studio-id="home_Login Form_9171"] .login-wrapper ion-item {
+  margin-bottom: 1rem;
+  background: transparent;
+  width: 100%;
+}
+
+#page-home [studio-id="home_Login Form_9171"] .login-wrapper ion-item.input-has-focus .item-inner {
+  --theme-text-secondary-color: #e6e6e6;
+  border-bottom-color: var(--theme-text-secondary-color);
+  box-shadow: none;
+}
+
+#page-home [studio-id="home_Login Form_9171"] .login-wrapper ion-item.item-input-has-value .item-inner {
+  --theme-text-secondary-color: #e6e6e6;
+  border-bottom-color: var(--theme-text-secondary-color);
+  box-shadow: none;
+}
+
+#page-home [studio-id="home_Login Form_9171"] .login-wrapper ion-item .item-inner {
+  display: flex;
+}
+
+#page-home [studio-id="home_Login Form_9171"] .login-wrapper ion-item .item-inner input {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+}
+
+#page-home [studio-id="home_Login Form_9171"] .login-wrapper ion-item .item-inner ion-label {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+}
+
+#page-home [studio-id="home_Login Form_9171"] .login-wrapper button {
+  --theme-primary-shade-two: #20202d;
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  background: var(--theme-primary-shade-two);
+}
+
+#page-home [studio-id="home_Heading_6083"] {
+  --theme-text-secondary-color: #000000;
+  color: var(--theme-text-secondary-color);
+}
+
+#page-home [studio-id="home_Label_3598"] {
+  --theme-text-secondary-color: #000000;
+  color: var(--theme-text-secondary-color);
+  font-weight: 900 !important;
+}

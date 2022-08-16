@@ -1,0 +1,178 @@
+/* write your css here */
+
+/* iphone 4 & 4s */
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px) {
+
+}
+
+/* iphone 5, 5s,5c */
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) {
+
+}
+
+/* iphone 6s, 6, 7  */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) {
+
+}
+
+/* iphone 6+, 7+, 8+ */
+
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) {
+
+}
+
+/* iphone x */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) {
+
+}
+
+/* Android -Galaxy s3*/
+
+@media only screen 
+  and (min-device-width: 400px) 
+  and (max-device-width: 750px) {
+
+}
+
+#page-market {
+  --theme-primary-color: url("../../imgs/blur13.jpg");
+  background: url("../../imgs/blur13.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#page-market [studio-id="market_Heading_20"] {
+  --theme-text-secondary-color: #0bff45;
+  color: var(--theme-text-secondary-color);
+}
+
+#page-market [studio-id="market_Label_140"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_1957"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_381"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_111"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_3279"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_1612"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_3193"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_2893"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_2904"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_4828"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_5738"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_3745"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_1420"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_5298"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_7605"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_2439"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_619"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Label_5468"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-market [studio-id="market_Button_6468"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #f5a623;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 900 !important;
+}

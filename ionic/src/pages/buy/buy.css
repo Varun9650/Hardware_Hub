@@ -1,0 +1,110 @@
+/* write your css here */
+
+/* iphone 4 & 4s */
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px) {
+
+}
+
+/* iphone 5, 5s,5c */
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) {
+
+}
+
+/* iphone 6s, 6, 7  */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) {
+
+}
+
+/* iphone 6+, 7+, 8+ */
+
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) {
+
+}
+
+/* iphone x */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) {
+
+}
+
+/* Android -Galaxy s3*/
+
+@media only screen 
+  and (min-device-width: 400px) 
+  and (max-device-width: 750px) {
+
+}
+
+#page-buy {
+  --theme-primary-color: url("../../imgs/blur6.jpeg");
+  background: url("../../imgs/blur6.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#page-buy [studio-id="buy_Heading_2925"] {
+  --theme-text-secondary-color: #f5a623;
+  color: var(--theme-text-secondary-color);
+}
+
+#page-buy [studio-id="buy_Button_6463"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #9b9b9b;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 600 !important;
+}
+
+#page-buy [studio-id="buy_Button_5710"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #9b9b9b;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 600 !important;
+}
+
+#page-buy [studio-id="buy_Button_2059"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #9b9b9b;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 600 !important;
+}
+
+#page-buy [studio-id="buy_Button_7053"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #9b9b9b;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 600 !important;
+}
+
+#page-buy [studio-id="buy_Button_8358"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #9b9b9b;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 600 !important;
+}
+
+#page-buy [studio-id="buy_Button_9866"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #9b9b9b;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 600 !important;
+}

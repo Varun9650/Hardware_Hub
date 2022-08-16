@@ -1,0 +1,184 @@
+/* write your css here */
+
+/* iphone 4 & 4s */
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px) {
+
+}
+
+/* iphone 5, 5s,5c */
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) {
+
+}
+
+/* iphone 6s, 6, 7  */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) {
+
+}
+
+/* iphone 6+, 7+, 8+ */
+
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) {
+
+}
+
+/* iphone x */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) {
+
+}
+
+/* Android -Galaxy s3*/
+
+@media only screen 
+  and (min-device-width: 400px) 
+  and (max-device-width: 750px) {
+
+}
+
+#page-amdnvidia {
+  --theme-primary-color: url("../../imgs/blur6.jpeg");
+  background: url("../../imgs/blur6.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Heading_2441"] {
+  --theme-text-secondary-color: #f5a623;
+  color: var(--theme-text-secondary-color);
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_8734"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_8621"] {
+  --theme-text-secondary-color: #2cec37;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_2823"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_3185"] {
+  --theme-text-secondary-color: #26ff13;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_2130"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_6518"] {
+  --theme-text-secondary-color: #07f727;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_2495"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_6151"] {
+  --theme-text-secondary-color: #11ff16;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_8193"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_4385"] {
+  --theme-text-secondary-color: #05ff14;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_3143"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_175"] {
+  --theme-text-secondary-color: #0af881;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_8959"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_1027"] {
+  --theme-text-secondary-color: #42ff17;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_5412"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_349"] {
+  --theme-text-secondary-color: #11ff28;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_9878"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_4731"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Label_4970"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-amdnvidia [studio-id="amdnvidia_Button_7304"] {
+  --theme-secondary-color: #000000;
+  --theme-primary-shade-one: #ffffff;
+  background: var(--theme-primary-shade-one);
+  color: var(--theme-secondary-color);
+  font-weight: 900 !important;
+}

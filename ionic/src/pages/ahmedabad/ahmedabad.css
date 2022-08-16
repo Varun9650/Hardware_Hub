@@ -1,0 +1,80 @@
+/* write your css here */
+
+/* iphone 4 & 4s */
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px) {
+
+}
+
+/* iphone 5, 5s,5c */
+
+@media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 568px) {
+
+}
+
+/* iphone 6s, 6, 7  */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 667px) {
+
+}
+
+/* iphone 6+, 7+, 8+ */
+
+@media only screen 
+  and (min-device-width: 414px) 
+  and (max-device-width: 736px) {
+
+}
+
+/* iphone x */
+
+@media only screen 
+  and (min-device-width: 375px) 
+  and (max-device-width: 812px) {
+
+}
+
+/* Android -Galaxy s3*/
+
+@media only screen 
+  and (min-device-width: 400px) 
+  and (max-device-width: 750px) {
+
+}
+
+#page-ahmedabad {
+  --theme-primary-color: url("../../imgs/blur1.jpg");
+  background: url("../../imgs/blur1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#page-ahmedabad [studio-id="ahmedabad_Heading_3569"] {
+  --theme-text-secondary-color: #9b9b9b;
+  color: var(--theme-text-secondary-color);
+}
+
+#page-ahmedabad [studio-id="ahmedabad_Label_8879"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-ahmedabad [studio-id="ahmedabad_Label_8272"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}
+
+#page-ahmedabad [studio-id="ahmedabad_Label_7113"] {
+  --theme-text-secondary-color: #e6e6e6;
+  color: var(--theme-text-secondary-color);
+  font-weight: 500;
+}

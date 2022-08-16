@@ -1,0 +1,29 @@
+{
+  "server": {
+    "mfpUrl": "http://127.0.0.1:9080",
+    "serverName": "MobileFoundation",
+    "confidentialServerUrl": "/mfp/api/az/v1/token"
+  },
+  "type": "ionic",
+  "isAppAuth": false,
+  "platforms": [
+    "android",
+    "ios",
+    "browser"
+  ],
+  "isEncrypt": false,
+  "isPush": true,
+  "appVersion": "8.1.4",
+  "projectName": "hardware",
+  "projectIcon": "C:\\IBM digital app projects\\hardware\\hardware\\ionic\\resources\\icon.png",
+  "projectVersion": "1.0.0",
+  "projectBundleId": "com.mfp.hardware",
+  "projectLocation": "C:\\IBM digital app projects\\hardware",
+  "isAnalyticsEnabled": true,
+  "isLiveUpdateEnabled": false,
+  "projectMode": "code",
+  "advanceSettings": {
+    "isChecksum": true,
+    "isWebencrypt": true
+  }
+}
